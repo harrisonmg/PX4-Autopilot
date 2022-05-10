@@ -75,8 +75,6 @@
 #include <px4_platform/board_determine_hw_info.h>
 #include <px4_platform/board_dma_alloc.h>
 
-#include <mpu.h>
-
 /****************************************************************************
  * Pre-Processor Definitions
  ****************************************************************************/
